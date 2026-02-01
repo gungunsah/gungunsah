@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Hi there! I’m a 1st Year BCA Student<br><br>🎓 Currently pursuing Bachelor of Computer Applications (BCA)<br>💡 Passionate about learning computer science and software development<br><br>🌱 What I’m learning right now:<br><br>🧑‍💻 Programming fundamentals<br><br>🧮 Basics of Data Structures<br><br>🌐 HTML, CSS & Web development basics<br><br>     c# / ☕ c++  / 💻 C (as per curriculum)<br><br>🛠️ Skills I’m building:<br><br>Logical thinking & problem solving<br><br>Writing clean and beginner-friendly code<br><br>Understanding how software works<br><br>📌 What you’ll find on my GitHub:<br><br>📂 Practice programs<br><br>🧪 Mini projects<br><br>📘 Learning notes & experiments<br><br>🎯 My goal:<br>To become a skilled software developer by continuously learning, practicing, and contributing to open-source and real-world projects.<br><br>🤝 Open to:<br><br>Learning from others<br><br>Collaboration & guidance<br><br>Improving every day 🚀
 
+<img align="right" alt="coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/thumb/female-web-developer-animation-gif-download-3817229.gif" >
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
